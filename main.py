@@ -1,8 +1,8 @@
 from bakery import assert_equal
 from dataclasses import dataclass
 from drafter import *
-from user_info.py import user_database, User
-from comp_challenges.py import emotional_challenges, rhythmic_challenges, get_daily_challenge
+from user_info import user_database, User
+from comp_challenges import emotional_challenges, rhythmic_challenges, get_daily_challenge
 #go take a look at choosealicense.com
 
 '''
